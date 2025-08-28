@@ -1,4 +1,4 @@
-# Romanian Map Graph
+
 romanian_map = {
     'Arad': { 'Zerind':75, 'Timisoara':118, 'Sibiu':140},
     'Zerind': {'Arad':75, 'Oradea':71},
